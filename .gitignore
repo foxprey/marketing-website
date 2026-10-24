@@ -1,0 +1,8 @@
+/update.sh
+
+# Local credentials and tooling
+.dev.vars*
+.env*
+node_modules/
+.wrangler/
+
